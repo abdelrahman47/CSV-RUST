@@ -1,0 +1,10 @@
+[package]
+name = "csvtutor"
+version = "0.1.0"
+authors = ["DELL"]
+edition = "2018"
+
+[dependencies]
+csv ="1"
+serde = "1"
+serde_derive = "1"
